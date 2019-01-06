@@ -1,5 +1,5 @@
 # Rechtehinweis
-Für ausführliche Informationen siehe: https://wiki.dnb.de/pages/viewpage.action?pageId=146376606#KopievonMODS(Empfehlung1.0)-Rechtehinweis/Lizenz. 
+Für ausführliche Informationen siehe: https://wiki.dnb.de/pages/viewpage.action?pageId=140645778. 
 
 ## Public Domain Mark 1.0
 ---
