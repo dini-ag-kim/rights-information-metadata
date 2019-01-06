@@ -9,7 +9,7 @@ Für ausführliche Informationen siehe: https://wiki.dnb.de/pages/viewpage.actio
 ---
 ## COAR - Restricted Access
 ---
-	<mods:accessCondition type="restriction on access" xlink:href="http://purl.org/coar/access_right/c_abf2" displayLabel="Access Status">
+	<mods:accessCondition type="restriction on access" xlink:href="http://purl.org/coar/access_right/c_16ec" displayLabel="Access Status">
 		restricted access
 	</mods:accessCondition>
 ---
