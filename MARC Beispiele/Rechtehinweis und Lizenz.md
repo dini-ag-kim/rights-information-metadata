@@ -2,8 +2,9 @@
 Für ausführliche Informationen siehe: https://wiki.dnb.de/pages/viewpage.action?pageId=140645778. 
 
 ## Public Domain Mark 1.0
+
 ---
-540 $aPublic Domain Mark 1.0$uhttps://creativecommons.org/publicdomain/mark/1.0/
+540 ##$aPublic Domain Mark 1.0$uhttps://creativecommons.org/publicdomain/mark/1.0/
 ---
 
 ## CC0 1.0 Public Domain Dedication
