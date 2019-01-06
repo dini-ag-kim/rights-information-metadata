@@ -1,5 +1,5 @@
-# Rechtehinweis/Lizenz 
-Siehe: https://wiki.dnb.de/pages/viewpage.action?pageId=146376606#KopievonMODS(Empfehlung1.0)-Rechtehinweis/Lizenz
+# Rechtehinweis
+Für ausführliche Informationen siehe: https://wiki.dnb.de/pages/viewpage.action?pageId=146376606#KopievonMODS(Empfehlung1.0)-Rechtehinweis/Lizenz. 
 
 ## Public Domain Mark 1.0 (Rechtehinweis)
 ---
@@ -24,3 +24,16 @@ Siehe: https://wiki.dnb.de/pages/viewpage.action?pageId=146376606#KopievonMODS(E
 		Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International
 	</mods:accessCondition>
 ---
+## CC BY-SA 3.0 DE "Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland" (Lizenz)
+---
+	<mods:accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/3.0/de/">
+		CC BY-SA 3.0
+	</mods:accessCondition>
+---
+---
+	<mods:accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/3.0/de/">
+		Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland
+	</mods:accessCondition>
+---
+
+
