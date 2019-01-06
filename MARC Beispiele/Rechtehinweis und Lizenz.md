@@ -36,7 +36,7 @@ Für ausführliche Informationen siehe: https://wiki.dnb.de/pages/viewpage.actio
 ---
 ## CC BY-SA 3.0 DE "Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland"
 ---
-	540 ##$aCC BY-SA 3.0$uhttps://creativecommons.org/licenses/by-sa/3.0/de/
+	540 ##$aCC BY-SA 3.0 DE$uhttps://creativecommons.org/licenses/by-sa/3.0/de/
 ---
 ---
 	540 ##$aNamensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland$uhttps://creativecommons.org/licenses/by-sa/3.0/de/
